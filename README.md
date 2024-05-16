@@ -1,2 +1,2 @@
-# NTD_AGG
-Neglected Tropical Diseases
+# AH_EBS
+Animal Health - Event Based Surveillance
