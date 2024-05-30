@@ -4422,6 +4422,12 @@
             },
             "options": [
                 {
+                    "id": "tVjj9oInHiJ"
+                },
+                {
+                    "id": "nS9HZCcuWDz"
+                },
+                {
                     "id": "XozUVVVmD5j"
                 },
                 {
@@ -4429,12 +4435,6 @@
                 },
                 {
                     "id": "vItJR9uZxdz"
-                },
-                {
-                    "id": "tVjj9oInHiJ"
-                },
-                {
-                    "id": "nS9HZCcuWDz"
                 }
             ],
             "sharing": {
@@ -6529,10 +6529,16 @@
             },
             "options": [
                 {
+                    "id": "PzNsV9twuKg"
+                },
+                {
                     "id": "LHnQaQPFGG8"
                 },
                 {
                     "id": "ff1Hy0mfqAp"
+                },
+                {
+                    "id": "CLc9P4HIhM2"
                 },
                 {
                     "id": "roAhm8IvInP"
@@ -6551,12 +6557,6 @@
                 },
                 {
                     "id": "fVFQytFAxSt"
-                },
-                {
-                    "id": "PzNsV9twuKg"
-                },
-                {
-                    "id": "CLc9P4HIhM2"
                 }
             ],
             "sharing": {
@@ -6756,16 +6756,25 @@
             },
             "options": [
                 {
+                    "id": "MApdl0H6YZ0"
+                },
+                {
                     "id": "IkOGr1RY87N"
                 },
                 {
                     "id": "XPLOURyfs9A"
                 },
                 {
+                    "id": "oXu27JoRszi"
+                },
+                {
                     "id": "XhISV7QzI4r"
                 },
                 {
                     "id": "TrfTQ3pVAaB"
+                },
+                {
+                    "id": "hTvPcNsV843"
                 },
                 {
                     "id": "H0H7DAaeQlA"
@@ -6786,6 +6795,9 @@
                     "id": "AzyYOjqQ58B"
                 },
                 {
+                    "id": "MEtGhnORrxP"
+                },
+                {
                     "id": "xpml52dDMvf"
                 },
                 {
@@ -6798,10 +6810,16 @@
                     "id": "xeRimv7weSP"
                 },
                 {
+                    "id": "pmDj1JIh45a"
+                },
+                {
                     "id": "M5LPAiArhK7"
                 },
                 {
                     "id": "fLYKz5YAxgK"
+                },
+                {
+                    "id": "bxNLHWD9OcP"
                 },
                 {
                     "id": "aeqEha926mh"
@@ -6813,55 +6831,19 @@
                     "id": "cHdTNXNYuTG"
                 },
                 {
-                    "id": "j9T7Tz2mLCT"
-                },
-                {
-                    "id": "BRVeVdE1XXB"
-                },
-                {
-                    "id": "l14N5HiuJEW"
-                },
-                {
-                    "id": "UBXKbihatS7"
-                },
-                {
-                    "id": "rvordU9dZG4"
-                },
-                {
-                    "id": "ehSV16QnIiI"
-                },
-                {
-                    "id": "uloqLaKV3RB"
-                },
-                {
-                    "id": "hDOXbsIPWIR"
-                },
-                {
-                    "id": "MApdl0H6YZ0"
-                },
-                {
-                    "id": "oXu27JoRszi"
-                },
-                {
-                    "id": "hTvPcNsV843"
-                },
-                {
-                    "id": "MEtGhnORrxP"
-                },
-                {
-                    "id": "pmDj1JIh45a"
-                },
-                {
-                    "id": "bxNLHWD9OcP"
-                },
-                {
                     "id": "QHVATlqKchz"
+                },
+                {
+                    "id": "j9T7Tz2mLCT"
                 },
                 {
                     "id": "fGbVa3phjfJ"
                 },
                 {
                     "id": "H1srRqwqERI"
+                },
+                {
+                    "id": "BRVeVdE1XXB"
                 },
                 {
                     "id": "adsQyw8kfB4"
@@ -6873,7 +6855,13 @@
                     "id": "mtPyjPhHg47"
                 },
                 {
+                    "id": "l14N5HiuJEW"
+                },
+                {
                     "id": "RavM75fsIZZ"
+                },
+                {
+                    "id": "UBXKbihatS7"
                 },
                 {
                     "id": "XGh8jQv8hbl"
@@ -6882,7 +6870,16 @@
                     "id": "pGNqYOY7RCe"
                 },
                 {
+                    "id": "rvordU9dZG4"
+                },
+                {
+                    "id": "ehSV16QnIiI"
+                },
+                {
                     "id": "rMg8FDuypBe"
+                },
+                {
+                    "id": "uloqLaKV3RB"
                 },
                 {
                     "id": "X2JdYe3XjZg"
@@ -6898,6 +6895,9 @@
                 },
                 {
                     "id": "QOWVTaeWoGb"
+                },
+                {
+                    "id": "hDOXbsIPWIR"
                 }
             ],
             "sharing": {
@@ -6970,16 +6970,16 @@
             },
             "options": [
                 {
-                    "id": "jye6csMxkm2"
-                },
-                {
                     "id": "QYtk044rmNz"
                 },
                 {
-                    "id": "uCMLRkkXGYM"
+                    "id": "QvdGfrnb1l3"
                 },
                 {
-                    "id": "QvdGfrnb1l3"
+                    "id": "jye6csMxkm2"
+                },
+                {
+                    "id": "uCMLRkkXGYM"
                 }
             ],
             "sharing": {
@@ -47678,7 +47678,7 @@
         "description": "Animal Health - Event Based Surveillance",
         "healthAreaCode": "AH",
         "healthAreaName": "Animal Health",
-        "lastUpdated": "20240530T105130",
+        "lastUpdated": "20240530T115132",
         "locale": "en",
         "name": "AH_EBS_TRK_DHIS2.40.3.1-en",
         "type": "TRK",
@@ -47692,13 +47692,13 @@
             "aggregationType": "SUM",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "qIY4m2MshA3",
+                    "id": "BFPWOgMI2vq",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -47709,13 +47709,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "bvnmLoBxZAU",
+                    "id": "AJbz98pQ1Vq",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -47765,13 +47765,13 @@
             "aggregationType": "CUSTOM",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "YXcEZBHMvyh",
+                    "id": "oknEZlG7rUp",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -47782,13 +47782,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "nEzWi2ddA9U",
+                    "id": "mebZdTTS5A8",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -47838,13 +47838,13 @@
             "aggregationType": "CUSTOM",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "n3TVuTYI10e",
+                    "id": "wWesenJy49e",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -47855,13 +47855,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "sbxrODN0B8R",
+                    "id": "nnTzKRb3hRB",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -47911,13 +47911,13 @@
             "aggregationType": "CUSTOM",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "yqdv2hEjABX",
+                    "id": "GJFAF7K5mSX",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -47928,13 +47928,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "lKvRkFtxEDR",
+                    "id": "QwbADOzEEV3",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -47984,13 +47984,13 @@
             "aggregationType": "CUSTOM",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "Qwb9ZXLCNOU",
+                    "id": "JleZaoCV2yU",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -48001,13 +48001,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "KNlQSFqc79C",
+                    "id": "GZ1D7Lntg1F",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -48057,13 +48057,13 @@
             "aggregationType": "CUSTOM",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "sojiwU6KFg0",
+                    "id": "LO1DxKWxUQX",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -48074,13 +48074,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "KXQ3SAnSiHK",
+                    "id": "RZshMhBDkAw",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -48130,13 +48130,13 @@
             "aggregationType": "CUSTOM",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "cIXvLXaaDjb",
+                    "id": "vORfGg35OMT",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -48147,13 +48147,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "SszRHouLfvM",
+                    "id": "hsRYXAbcfjk",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -48203,13 +48203,13 @@
             "aggregationType": "CUSTOM",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "hxR3K74GGCi",
+                    "id": "WKK9BexvqmU",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -48220,13 +48220,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "JdcI4w7Y3nE",
+                    "id": "RM4XYdb8fYO",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -48276,13 +48276,13 @@
             "aggregationType": "CUSTOM",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "I5Pw6Yt9hdV",
+                    "id": "ybxpOXHpK9L",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -48293,13 +48293,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "hdyS4YZfLW1",
+                    "id": "n865FVSpcJg",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -48349,13 +48349,13 @@
             "aggregationType": "CUSTOM",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "ffhTkmx8fll",
+                    "id": "PzVxbZI130W",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -48366,13 +48366,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "sHXx4ijC6Ev",
+                    "id": "DlgkIY6bqIc",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -48422,13 +48422,13 @@
             "aggregationType": "CUSTOM",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "bd1XQTCkJvX",
+                    "id": "jhSz29C1iOQ",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -48439,13 +48439,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "wsb9LoFd9si",
+                    "id": "IK3acmhQjyg",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -48495,13 +48495,13 @@
             "aggregationType": "SUM",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "eosca6P0f7J",
+                    "id": "yshZpZKPwHc",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -48512,13 +48512,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "ZbSuMcYqpMx",
+                    "id": "JgJxmXJOjTg",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -48568,13 +48568,13 @@
             "aggregationType": "SUM",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "O5ZBe5F5Lsd",
+                    "id": "U4E9f4TRrW6",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -48585,13 +48585,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "eTbDdCcFzxn",
+                    "id": "tZH3YUabhw8",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -48641,13 +48641,13 @@
             "aggregationType": "CUSTOM",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "PxZRuNlwqaq",
+                    "id": "lL8VnaaVx65",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -48658,13 +48658,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "wHRfBQyWA7Q",
+                    "id": "PzEBAsR3mKm",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -48714,13 +48714,13 @@
             "aggregationType": "CUSTOM",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "qT9aHwwu93P",
+                    "id": "ZBMWdoio1T6",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -48731,13 +48731,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "RakWlxG6S9n",
+                    "id": "yi8DyYZzwDm",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -48787,13 +48787,13 @@
             "aggregationType": "CUSTOM",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "uLjwDtgaEac",
+                    "id": "u0y4jgQCfsT",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -48804,13 +48804,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "t1wtaMcjl1Q",
+                    "id": "HwqHtqZduFr",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -48860,13 +48860,13 @@
             "aggregationType": "CUSTOM",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "Ok1HyGk36w8",
+                    "id": "H2RubjnRcK5",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -48877,13 +48877,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "Q4QGPFYK33F",
+                    "id": "npoeGGpbhRU",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -48933,13 +48933,13 @@
             "aggregationType": "CUSTOM",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "sSBsoztqckS",
+                    "id": "oLbuIzQjwOA",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -48950,13 +48950,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "k6Hzr3GRqUT",
+                    "id": "s0sfbJK5tuX",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -49006,13 +49006,13 @@
             "aggregationType": "CUSTOM",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "nXDZFlqEQo5",
+                    "id": "t4iVCVyHMi9",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -49023,13 +49023,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "knSSUSXGNfO",
+                    "id": "pG0vg40NMkq",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -49079,13 +49079,13 @@
             "aggregationType": "CUSTOM",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "NAp7ZZq8H4z",
+                    "id": "kOy1kENB9LJ",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -49096,13 +49096,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "pIjxoZQ759I",
+                    "id": "ge9BgXOiMzi",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -49152,13 +49152,13 @@
             "aggregationType": "CUSTOM",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "tVXqbGbYgKu",
+                    "id": "XWI0lVAzGNR",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -49169,13 +49169,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "gqcGPaoVpbJ",
+                    "id": "hOMMbdLklBz",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -49225,13 +49225,13 @@
             "aggregationType": "CUSTOM",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "gQstaLw4nFs",
+                    "id": "V7rNgLAlQio",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -49242,13 +49242,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "Dh9sMEljHhV",
+                    "id": "cDTmExc4wqT",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -49298,13 +49298,13 @@
             "aggregationType": "CUSTOM",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "Zt3aDxt9v8E",
+                    "id": "LLupJYZ5l5s",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -49315,13 +49315,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "O1GupathNJA",
+                    "id": "E1Gij4gKQkn",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -49371,13 +49371,13 @@
             "aggregationType": "CUSTOM",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "Uevk003la7W",
+                    "id": "V9oA0nPyWGm",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -49388,13 +49388,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "RQlski9uPnC",
+                    "id": "rnfPziYmSz7",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -49444,13 +49444,13 @@
             "aggregationType": "CUSTOM",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "H3DNhSFdiUg",
+                    "id": "SIj9kEReCt5",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -49461,13 +49461,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "JSl0DO0x4vU",
+                    "id": "SOa3VY4KLVg",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -49517,13 +49517,13 @@
             "aggregationType": "CUSTOM",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "yovikPCTl6i",
+                    "id": "P868wE9XcVi",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -49534,13 +49534,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "RbiuxovxMCK",
+                    "id": "ZyV0uy3t4mK",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -49590,13 +49590,13 @@
             "aggregationType": "CUSTOM",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "vFIkJzSDsXG",
+                    "id": "hJCwWZtapxt",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -49607,13 +49607,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "i7OYg2XUIEt",
+                    "id": "dnMbH6KuKFm",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -49663,13 +49663,13 @@
             "aggregationType": "CUSTOM",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "Uv6zfYNV1NO",
+                    "id": "rst7fH7sts9",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -49680,13 +49680,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "Oy5fADDj1Kz",
+                    "id": "dSK0FcB5Zoz",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -49736,13 +49736,13 @@
             "aggregationType": "CUSTOM",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "moD8qxaSgN5",
+                    "id": "oyVibCS81En",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -49753,13 +49753,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "tmYxYemwu8X",
+                    "id": "lTZbpB6CDmC",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -49809,13 +49809,13 @@
             "aggregationType": "SUM",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "IhAoTl2mSZc",
+                    "id": "LqsabuVqcZb",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -49826,13 +49826,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "swZaYcHhv60",
+                    "id": "lRhtAms9VJf",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -49882,13 +49882,13 @@
             "aggregationType": "CUSTOM",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "hOYJ1C0k6i3",
+                    "id": "Hz89ND5ts3x",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -49899,13 +49899,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "upTGhgbKZXf",
+                    "id": "akjtnSoVeb3",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -49955,13 +49955,13 @@
             "aggregationType": "CUSTOM",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "lqcWbvn1p9b",
+                    "id": "EBSK0yQ7Ice",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -49972,13 +49972,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "KDAADX4a6uY",
+                    "id": "VuyajqVobxE",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -50028,13 +50028,13 @@
             "aggregationType": "CUSTOM",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "wVss9GBKMfT",
+                    "id": "ebbmuBDS0km",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -50045,13 +50045,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "ZBpodmGyZpz",
+                    "id": "utCDTA6Szp7",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -50101,13 +50101,13 @@
             "aggregationType": "CUSTOM",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "wv8XQAP5myl",
+                    "id": "nr0oIDXko5j",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -50118,13 +50118,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "wl7fUSpytko",
+                    "id": "Nxth8hN0Ujl",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -50174,13 +50174,13 @@
             "aggregationType": "CUSTOM",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "r5EP4ykYOij",
+                    "id": "WnRSkhIg2tm",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -50191,13 +50191,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "GPQNrY27707",
+                    "id": "UfbSllhLIuX",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -50247,13 +50247,13 @@
             "aggregationType": "CUSTOM",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "BPgrgvts1Sp",
+                    "id": "E3EgzlUYbyF",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -50264,13 +50264,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "RiijiQ30kv4",
+                    "id": "u9QF2WbP6RF",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -50320,13 +50320,13 @@
             "aggregationType": "CUSTOM",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "YPlG973txdY",
+                    "id": "o8qI1gs2fkm",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -50337,13 +50337,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "jfvS6UPemnf",
+                    "id": "NTPSTdkd5MI",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -50393,13 +50393,13 @@
             "aggregationType": "CUSTOM",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "gEFUcD99xBn",
+                    "id": "itJ5Zh7zI9y",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -50410,13 +50410,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "NNu7g2sAgfK",
+                    "id": "NlRLGGt6b2n",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -50466,13 +50466,13 @@
             "aggregationType": "CUSTOM",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "ZMqLjWy1MzA",
+                    "id": "UhyCrr3DPfs",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -50483,13 +50483,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "q6Prj4F0QrL",
+                    "id": "OjeD3Yjty5h",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -50539,13 +50539,13 @@
             "aggregationType": "CUSTOM",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "i4KJRs2fpEN",
+                    "id": "QHwechM1nCo",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -50556,13 +50556,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "VTVrS56s1TD",
+                    "id": "luajJw4fnMO",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -50612,13 +50612,13 @@
             "aggregationType": "CUSTOM",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "IrwuvAtpnSB",
+                    "id": "SgqC2Dw7dD5",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -50629,13 +50629,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "Pzq4un5Kl4H",
+                    "id": "ePHUcOhvc9M",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -50685,13 +50685,13 @@
             "aggregationType": "CUSTOM",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "rc9CDyC5pwL",
+                    "id": "HojZxK7zNLh",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -50702,13 +50702,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "RBjSHK1Q8Hk",
+                    "id": "ZdHhLZrqxA9",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -50758,13 +50758,13 @@
             "aggregationType": "CUSTOM",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "MmdAqDWvYNy",
+                    "id": "AWrCH6wEAEx",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -50775,13 +50775,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "tmyBiIDW33G",
+                    "id": "jUofdxNmG3B",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -50831,13 +50831,13 @@
             "aggregationType": "CUSTOM",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "QDpwbVGOQX7",
+                    "id": "MVBQHhBK1a3",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -50848,13 +50848,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "wckYCUGGutP",
+                    "id": "pgkZGAkHVvi",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -50910,7 +50910,7 @@
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "amPxEBqktT1",
+                    "id": "k9gwjQOZAhZ",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -50960,13 +50960,13 @@
             "aggregationType": "COUNT",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "jOeLoLX0ekR",
+                    "id": "yufq8V3tbz1",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -50977,13 +50977,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "ixD9EqkhL2O",
+                    "id": "FfLEeeZWQPO",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -51033,13 +51033,13 @@
             "aggregationType": "COUNT",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "QXyVARHhMuO",
+                    "id": "asPaguhMJLS",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -51050,13 +51050,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "C4dztMrn9dY",
+                    "id": "vog6wPN21Ra",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -51106,13 +51106,13 @@
             "aggregationType": "COUNT",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "OKINVBX7xKE",
+                    "id": "FKZf28XiSNy",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -51123,13 +51123,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "V2D0FwcNJ1w",
+                    "id": "a73Pugp0y4d",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -51179,13 +51179,13 @@
             "aggregationType": "COUNT",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "ZkEJHLmx9ZV",
+                    "id": "VNb6WgjbzrT",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -51196,13 +51196,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "w6lab5I5d4k",
+                    "id": "z1ifVYTydHZ",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -51252,13 +51252,13 @@
             "aggregationType": "COUNT",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "Lj6UhHXvmbX",
+                    "id": "vBmUvOQ08Kn",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -51269,13 +51269,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "sDa4df2ZP5W",
+                    "id": "E3flFzmGDMA",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -51325,13 +51325,13 @@
             "aggregationType": "COUNT",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "BeKL7v74PO8",
+                    "id": "fdKeUXTJkUf",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -51342,13 +51342,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "XaOJzNHdnWV",
+                    "id": "rtiaA2ttNaM",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -51398,13 +51398,13 @@
             "aggregationType": "COUNT",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "kuwog6tkFpm",
+                    "id": "OAJnACp6jqF",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -51415,13 +51415,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "sML4RFG9wJH",
+                    "id": "kHtqJVR6WPJ",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -51471,13 +51471,13 @@
             "aggregationType": "COUNT",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "oJTNkeDxKyB",
+                    "id": "gW57ogO7Cdk",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -51488,13 +51488,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "jiRimXwSkzJ",
+                    "id": "FJYZxzalO18",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -51544,13 +51544,13 @@
             "aggregationType": "COUNT",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "CQW6P1dIDaq",
+                    "id": "NJ7V6H31MM7",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -51561,13 +51561,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "xTrCQEcpwL8",
+                    "id": "RG1z5uX0fC3",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -51617,13 +51617,13 @@
             "aggregationType": "COUNT",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "DiFANAG4ago",
+                    "id": "LYG9EHVToTB",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -51634,13 +51634,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "qU3qOyaB5vt",
+                    "id": "GtIYyD6f3gz",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -51690,13 +51690,13 @@
             "aggregationType": "COUNT",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "nzexxbIJI3D",
+                    "id": "wIlpFhiISd5",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -51707,13 +51707,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "CLFfmlx7m2m",
+                    "id": "rSeaJ6zkwjM",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -51763,13 +51763,13 @@
             "aggregationType": "CUSTOM",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "ADOZqqlaa83",
+                    "id": "V5h2dGaP795",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -51780,13 +51780,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "tqYMhXCV5lP",
+                    "id": "EWeVwDVtVTC",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -51836,13 +51836,13 @@
             "aggregationType": "COUNT",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "EhCZTcXLwU9",
+                    "id": "JZDKh7QRogp",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -51853,13 +51853,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "EcBvleDQcv1",
+                    "id": "Md7Sfi4lder",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -51909,13 +51909,13 @@
             "aggregationType": "CUSTOM",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "jMfFeA5hhjE",
+                    "id": "D8BdNWsNlOj",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -51926,13 +51926,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "pSdoF0q9TZa",
+                    "id": "PV4hKrV5jpR",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -51982,13 +51982,13 @@
             "aggregationType": "CUSTOM",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "i0zs9MwTTKl",
+                    "id": "CBIy01ObnJ6",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -51999,13 +51999,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "GjYGP6vjElK",
+                    "id": "TB8aTngGriW",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -52055,13 +52055,13 @@
             "aggregationType": "CUSTOM",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "okCEBKXJAnq",
+                    "id": "voukdde8mtq",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -52072,13 +52072,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "XNUuopvOpD7",
+                    "id": "H2QfFxrsOly",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -52128,13 +52128,13 @@
             "aggregationType": "CUSTOM",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "g59l7ZIPSaS",
+                    "id": "UOC0f3iXOVS",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -52145,13 +52145,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "smngaLlCPLW",
+                    "id": "QjMLArbmsFO",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -52201,13 +52201,13 @@
             "aggregationType": "CUSTOM",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "x3NULP8eY9h",
+                    "id": "JSiHkP4An0h",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -52218,13 +52218,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "qxEafDwLFMg",
+                    "id": "ZKETeZU0jYC",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -52274,13 +52274,13 @@
             "aggregationType": "CUSTOM",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "USXT6V1TUeu",
+                    "id": "Xi17vOoDEb6",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -52291,13 +52291,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "k0H8R1CIFS8",
+                    "id": "beqiY1hhvXn",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -52347,13 +52347,13 @@
             "aggregationType": "CUSTOM",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "nLwPTIe6uK7",
+                    "id": "Wh13zbKGvZi",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -52364,13 +52364,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "QJFJCsN5Avb",
+                    "id": "yxsRsV56ks9",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -52420,13 +52420,13 @@
             "aggregationType": "CUSTOM",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "UFUGwIP7MJp",
+                    "id": "ostVEReQ6uS",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -52437,13 +52437,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "hYdoVZA1sJR",
+                    "id": "I9bkzhA0Zhg",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -52493,13 +52493,13 @@
             "aggregationType": "CUSTOM",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "xxdbpnZaExT",
+                    "id": "q7KgeS7aU09",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -52510,13 +52510,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "SPAVRQanOWj",
+                    "id": "rdjyPXJ0FZv",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -52566,13 +52566,13 @@
             "aggregationType": "CUSTOM",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "P0ficdtffXE",
+                    "id": "CN79hAlD4qj",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -52583,13 +52583,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "iTj7xXGUaJD",
+                    "id": "CpRLRp13uUu",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -52639,13 +52639,13 @@
             "aggregationType": "CUSTOM",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "xjY159N7gab",
+                    "id": "zM5hibaAmOE",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -52656,13 +52656,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "ZqnD64wNXfN",
+                    "id": "IF8FCVpRLpX",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -52712,13 +52712,13 @@
             "aggregationType": "CUSTOM",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "Qwybn1jRsxT",
+                    "id": "lsxvKJPXSRH",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -52729,13 +52729,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "l452MSk0S26",
+                    "id": "xDq3oEMlb6I",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -52785,13 +52785,13 @@
             "aggregationType": "CUSTOM",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "QQCw0O4HZrx",
+                    "id": "pmmHTqvgr25",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -52802,13 +52802,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "e5u8O071xMR",
+                    "id": "FkYclFKTgjv",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -52858,13 +52858,13 @@
             "aggregationType": "CUSTOM",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "hkWGcABTuVO",
+                    "id": "yow1MZ6ERyl",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -52875,13 +52875,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "S54Cvelf8FN",
+                    "id": "Zd7hQBtJMcg",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -52931,13 +52931,13 @@
             "aggregationType": "CUSTOM",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "ZjY1OZ74pMJ",
+                    "id": "eZJlxcShegV",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -52948,13 +52948,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "NDAGIwj73nk",
+                    "id": "sOMIEoz5HNw",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -53004,13 +53004,13 @@
             "aggregationType": "CUSTOM",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "BsLK9D8H5Zy",
+                    "id": "UXK872rIlDX",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -53021,13 +53021,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "rJbSXLnXEsS",
+                    "id": "rdjbnkhauXo",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -53077,13 +53077,13 @@
             "aggregationType": "CUSTOM",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "VFtbJYIe1rD",
+                    "id": "emIjm2PuuHg",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -53094,13 +53094,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "DyQDxj1bwSL",
+                    "id": "axdrfq7lhiw",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -53150,13 +53150,13 @@
             "aggregationType": "CUSTOM",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "OhoWfrLt9Nd",
+                    "id": "yFsmlQubxN2",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -53167,13 +53167,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "Ve8N6Uc4OrX",
+                    "id": "QNtdQ7vMYqj",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -53223,13 +53223,13 @@
             "aggregationType": "CUSTOM",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "aaqzgCQyCdp",
+                    "id": "lJLnnRddiqv",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -53240,13 +53240,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "QqvcPKxHdj8",
+                    "id": "ftILohnBOAm",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -53296,13 +53296,13 @@
             "aggregationType": "CUSTOM",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "Utb8HhENCe1",
+                    "id": "XVG0oyqrdjD",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -53313,13 +53313,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "WL3QYktQphe",
+                    "id": "p3YcBYOzJCu",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -53369,13 +53369,13 @@
             "aggregationType": "CUSTOM",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "i35b2SlQkGx",
+                    "id": "zuRcFDFGkjA",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -53386,13 +53386,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "mTT0Yn1upa7",
+                    "id": "Dt6vVL1Phkb",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -53442,13 +53442,13 @@
             "aggregationType": "CUSTOM",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "C8A0Xoezzob",
+                    "id": "n6eaO8MTkG8",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -53459,13 +53459,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "ENROLLMENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "ne9GIkMGj7m",
+                    "id": "kifiwmyjaQN",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -53509,6 +53509,79 @@
                 "users": {}
             },
             "shortName": "Treatment 2: symptomatic treatment",
+            "translations": []
+        },
+        {
+            "aggregationType": "SUM",
+            "analyticsPeriodBoundaries": [
+                {
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "attributeValues": [],
+                    "boundaryTarget": "ENROLLMENT_DATE",
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "UgldbktZOwm",
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": []
+                },
+                {
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "attributeValues": [],
+                    "boundaryTarget": "ENROLLMENT_DATE",
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "l59WUDG5Lje",
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": []
+                }
+            ],
+            "analyticsType": "ENROLLMENT",
+            "attributeValues": [],
+            "code": "AH_EBS_VACCINATIONS_PERFORMED",
+            "displayInForm": false,
+            "expression": "#{Lp3XW1E8MzH.KgT0A15XswH}",
+            "filter": "true",
+            "id": "G5JFz9xr1Wb",
+            "legendSets": [],
+            "name": "AH_EBS - Vaccinations performed",
+            "program": {
+                "id": "PREnRHSp3be"
+            },
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {
+                    "JbEKHuJ10f8": {
+                        "access": "r-------",
+                        "id": "JbEKHuJ10f8"
+                    },
+                    "XqxTT9qju3h": {
+                        "access": "r-------",
+                        "id": "XqxTT9qju3h"
+                    },
+                    "hYVqUKvDKFH": {
+                        "access": "rw------",
+                        "id": "hYVqUKvDKFH"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "Vaccinations performed",
             "translations": []
         }
     ],
@@ -55482,10 +55555,10 @@
             },
             "programRuleActions": [
                 {
-                    "id": "wekZgISfNyQ"
+                    "id": "LY2QptrLd9l"
                 },
                 {
-                    "id": "LY2QptrLd9l"
+                    "id": "wekZgISfNyQ"
                 }
             ],
             "translations": []
