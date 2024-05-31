@@ -1,12 +1,18 @@
-# Introduction
+
+
+# Animal Health Design {ah-ebs-design}
+
+## Introduction
 
 An estimated 60% of emerging infectious diseases originate in animals, both domestic and wildlife ([WHO, 2023](https://www.who.int/news-room/fact-sheets/detail/one-health)). The high risk of zoonotic spillover into human populations demands close collaboration, communication and coordination between animal and public health sectors. While substantial investments and resources have helped public health agencies and MOH in countries to strengthen surveillance systems for humans, the resources available for improving animal health surveillance remain far more limited. 
 
-The **DHIS2 Animal Health toolkit** is designed for implementation by Ministries of Agriculture & Livestock to improve routine, systematic surveillance in animal populations, thanks to catalytic support from CDC’s Center for Global Health. A DHIS2 tracker program for animal health reporting is described in this document. The animal health tracker program is based on the design of [FAO’s EMPRES-i system]([https://EMPRES-i.apps.fao.org/](https://empres-i.apps.fao.org/)) for global reporting and early warning. Metadata published as a part of this toolkit is aligned with the FAO recommended metadata for early warning systems to facilitate ease of interoperability between DHIS2, EMPRES-i and other systems. The DHIS2 system for animal health can operate as an independent surveillance platform for Ministries of Livestock and actors working in veterinary and animal health; or it can be integrated into a DHIS2 platform alongside public health surveillance data to enhance data sharing for zoonotic diseases. 
+The **DHIS2 Animal Health toolkit** is designed for implementation by Ministries of Agriculture & Livestock to improve routine, systematic surveillance in animal populations, thanks to catalytic support from CDC’s Center for Global Health. A DHIS2 tracker program for animal health event based surveillance is described in this document. The animal health tracker program is based on the design of [FAO’s EMPRES-i system]([https://EMPRES-i.apps.fao.org/](https://empres-i.apps.fao.org/)) for global reporting and early warning. Metadata published as a part of this toolkit is aligned with the FAO recommended metadata for early warning systems to facilitate ease of interoperability between DHIS2, EMPRES-i and other systems. The DHIS2 system for animal health can operate as an independent surveillance platform for Ministries of Livestock and actors working in veterinary and animal health; or it can be integrated into a DHIS2 platform alongside public health surveillance data to enhance data sharing for zoonotic diseases. 
 
 Recognizing that the health of humans, animals, plants, and the wider environment are closely linked and interdependent, the One Health approach emphasizes cross-sectoral collaboration at all levels to protect our ecosystems and address health challenges like the emergence of infectious diseases, antimicrobial resistance, and food safety ([WHO](https://www.who.int/health-topics/one-health#tab=tab_1)). The animal health toolkit builds upon lessons learned from more than a decade of implementing public health surveillance systems in DHIS2 with 40+ Ministries of Health and aims to further advance collaborative, cross-sector approaches to improve health for all. These efforts are in line with the WHO’s [collaborative surveillance framework](https://www.who.int/publications/i/item/9789240074064) to strengthen the global architecture for health emergency preparedness, response, and resilience (HEPR). 
 
-**For more information about One Health use cases with DHIS2, visit our webpage: **[dhis2.org/one-health](https://dhis2.org/one-health/)
+>**Note:**
+>
+>For more information about One Health use cases with DHIS2, visit our webpage: [dhis2.org/one-health](https://dhis2.org/one-health/)
 
 ## Acknowledgements
 
