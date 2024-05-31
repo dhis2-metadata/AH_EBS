@@ -47678,7 +47678,7 @@
         "description": "Animal Health - Event Based Surveillance",
         "healthAreaCode": "AH",
         "healthAreaName": "Animal Health",
-        "lastUpdated": "20240530T115132",
+        "lastUpdated": "20240530T123053",
         "locale": "en",
         "name": "AH_EBS_TRK_DHIS2.40.3.1-en",
         "type": "TRK",
