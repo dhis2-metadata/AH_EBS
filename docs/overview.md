@@ -14,4 +14,4 @@
 
 ## Metadata Reference
 
-- [Version 1.0.0]
+- [Version 1.0.0](https://packages.dhis2.org/en/AH_EBS/1.0.0/DHIS2.40/AH_EBS_COMPLETE_1.0.0_DHIS2.40.xlsx)
