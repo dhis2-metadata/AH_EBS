@@ -14,13 +14,13 @@ Recognizing that the health of humans, animals, plants, and the wider environmen
 >
 >For more information about One Health use cases with DHIS2, visit our webpage: [dhis2.org/one-health](https://dhis2.org/one-health/)
 
-## Acknowledgements
+### Acknowledgements
 
 The DHIS2 animal health toolkit was supported by CDC funding through the OneHealth initiative. HISP Centre is grateful to CDC, Food & Agricultural Organisation (FAO), World Organisation for Animal Health (WOAH) and the World Health Organization (WHO) for contributing their technical expertise and guidance in the development of the toolkit. 
 
-# System Design 
+## System Design 
 
-## Architecture
+### Architecture
 
 The DHIS2 Animal Health Toolkit is designed to: 
 
@@ -32,15 +32,11 @@ The DHIS2 Animal Health Toolkit is designed to:
 
 Based on landscaping of existing country systems for One Health and animal health, there are multiple scenarios for implementing DHIS2 to support animal health surveillance functions. The animal health toolkit is designed to be flexible and adaptable based on existing country systems and architecture. 
 
-```
-![Illustrative architecture OneHealth](resources/X_AH_simple_architecture.png)
-```
+![Illustrative architecture for One Health systems](resources/integrated_surveillance_system.png)
 
-*Illustrative architecture for One Health systems*
+### Use Case
 
-## Use Case
-
-### Early warning systems for animal health
+#### Early warning systems for animal health
 
 This design document focuses specifically on using DHIS2 to report and collate information related to animal health threats. These data can then be shared upstream to other systems, such as national One Health platforms, FAO’s EMPRES-i system for early warning, or sending key data to DHIS2 surveillance systems managed by the Ministry of Health to alert public health staff to possible zoonotic disease threats. 
 
@@ -56,7 +52,7 @@ Event-based surveillance can incorporate many types of sources, including public
 
 These “events” can include signals, such as those reported from the community, which are verified by qualified surveillance personnel. For example, a farmer may report an unusual occurrence of a cluster of dead animals, which prompts local health authorities to verify and investigate whether there is a possible health threat. Reporting from veterinarians, community members, agriculture and livestock workers is especially important for detecting possible events that can result in the spread of zoonotic diseases. 
 
-### Personas (System Users)
+#### Personas (System Users)
 
 The Animal Health surveillance system design focuses on meeting the needs of end users at all levels of the animal health system, including those responsible for implementing and managing integrated platforms as One Health. These users may include:
 
@@ -66,7 +62,7 @@ The Animal Health surveillance system design focuses on meeting the needs of end
 - **Cross-sector platform users:** users from different domain such as human health and environment may need access to the animal health surveillance data for cross-sector analysis under the One Health approach
 - **Implementing partners:** organisations who provide technical assistance to the national animal health surveillance platform, collect and analyse data on behalf of the overall national strategy, and may be responsible for the operations of service delivery networks.
 
-## Key Components & Functionality
+### Key Components & Functionality
 
 The DHIS2 Animal Health Surveillance system has two main components: 
 
@@ -85,17 +81,9 @@ Additional DHIS2 functionalities can further enhance the use of the system. Thes
 
 As a robust platform for interoperability with a well-documented REST-based API, the DHIS2 system facilitates upward reporting from DHIS2 to global databases such as EMPRES-i or WOAH’s WAHIS system; alternatively, DHIS2 can be used simply to receive and store animal health surveillance data as a repository from other existing data collection tools. This capability allows DHIS2 to bring data together from animal and public health sectors (and beyond!) to enhance prevention and early detection of zoonotic spillovers and diseases.
 
-## User Groups
+## Tracker
 
-The following user groups are included in the downloadable metadata file: 
-
-| **User group**        | **Metadata**      | **Data**             |
-| --------------------- | ----------------- | -------------------- |
-| AH_EBS - Admin        | Can edit and view | No Access            |
-| AH_EBS - Access       | Can view only     | Can view only        |
-| AH_EBS - Data Capture | Can view only     | Can capture and view |
-
-## Tracker Program Structure
+### Tracker Program Structure
 
 The tracker program structure is as follows, favoring simplicity in the number of program stages. These can be further adapted according to country workflows. 
 
@@ -109,23 +97,23 @@ The tracker program structure is as follows, favoring simplicity in the number o
 | Laboratory             | The stage collects information on the laboratory that is analysing the sample, sample identification and test details. A unique lab ID is included in this stage to allow the linkage of samples and results. **The stage is repeatable** because multiple samples can be taken, and multiple lab tests and results can be available for a given sample. |
 | Measures and treatment | The stage collects information on the treatment provided in the health event and the control measures implemented. **The stage is non-repeatable** as it is intended to include all response measures provided for the animal health event. |
 
-## Tracked Entity Type 
+### Tracked Entity Type 
 
 The DHIS2 Animal Health surveillance tracker program allows for the enrollment of a tracked entity type (TET) ‘Health event’. We have made this conceptualization based on CDC’s definition and the overall flow of the early wearing system. In this context, an event is a manifestation of disease or an occurrence that creates a potential for disease, which can include infectious, zoonotic, food safety, chemical, radiological, or nuclear in origin and may be transmitted by persons, vectors, animals, goods, or through the environment [CDC](https://www.cdc.gov/globalhealth/healthprotection/gddopscenter/event-based-surveillance.html). 
 
 Defining what constitutes a “Health Event” or determining a more suitable terminology should be decided at country level with stakeholders. The terminology here is intended to be as generic as possible, but in practice this can have different interpretations such as a delimited geographical unit or a group of individuals (humans or animals) which are all affected by the same pathogen, or with the same syndromic characteristics..
 
-## Enrollment
+### Enrollment
 
 When a new possible animal health “event” is enrolled in the Animal Health program as a Tracked Entity Instance (TEI), Tracked Entity Attributes (TEA) are recorded to form the event profile.
 
-The **enrollment date** is conceptualised as the “reported date”, signifying the date that the signal or event was initially reported (e.g. by a community member, veterinarian, farmer, or other authority). 
+The *enrollment date* is conceptualised as the “reported date”, signifying the date that the signal or event was initially reported (e.g. by a community member, veterinarian, farmer, or other authority). 
 
-The attribute **‘Event ID’** is an unique ID automatically generated using the textPattern SEQUENTIAL(#######) syntax and need to be customised prior to implementation depending on local context. The Event ID is configured as searchable to allow users to search for an event that was reported and is automatically generated. The system generated unique ID allows for the event to be tracked throughout the course of investigation, lab data, response, etc. 
+The attribute *Event ID* is an unique ID automatically generated using the textPattern SEQUENTIAL(#######) syntax and need to be customised prior to implementation depending on local context. The Event ID is configured as searchable to allow users to search for an event that was reported and is automatically generated. The system generated unique ID allows for the event to be tracked throughout the course of investigation, lab data, response, etc. 
 
-The attribute **‘observation date’** refers to the date in which the health event has happened and can be used to monitor the quality of the surveillance system comparing with the TEA “Reported date”ing
+The attribute *observation date* refers to the date in which the health event has happened and can be used to monitor the quality of the surveillance system comparing with the TEA “Reported date”ing
 
-The attribute **’General Comment’** is used to collect descriptive, non-structured information about the event. This can provide key context for veterinary epidemiologists, surveillance officers and other experts to triage and verify the signal for further investigation. 
+The attribute *General Comment* is used to collect descriptive, non-structured information about the event. This can provide key context for veterinary epidemiologists, surveillance officers and other experts to triage and verify the signal for further investigation. 
 
 ![Animal health enrollment](resources/enrollment.png)
 
@@ -133,27 +121,29 @@ The attribute **’General Comment’** is used to collect descriptive, non-stru
 
 This stage is auto-generated upon enrollment of the initial event report (such as when an animal surveillance event was initially reported by a community member, veterinarian, farmer or other user). This stage records basic epidemiological information about the animal health event. 
 
-**Note: The stage is repeatable because it is intended that the user will complete this form for each animal species affected. For example, if a farmer notices an unusual cluster of deaths in both pigs and chickens at his farm, the form should be completed for each animal species.**
+>**Note:**
+>
+>The stage is repeatable because it is intended that the user will complete this form for each animal species affected. For example, if a farmer notices an unusual cluster of deaths in both pigs and chickens at his farm, the form should be completed for each animal species.**
 
-#### Epidemiology [section]
+#### Epidemiology
 
 In the sections basic qualitative and quantitative epidemiological information are collected about the animal species, the amount of animals involved and the production system.
 
 ![epidemiology](resources/epidemiology_epidemiology.png)
 
-The options in the data element **‘Animal Species’** are populated by Option Groups. A set of Program Rules based on the value selected on the DE “Animal class” narrows down the list of options based on a hierarchical relationship between the animal class and animal species. 
+The options in the data element *Animal Species* are populated by Option Groups. A set of Program Rules based on the value selected on the DE *Animal class* narrows down the list of options based on a hierarchical relationship between the animal class and animal species. 
 
 ![Animal species](resources/animal_species_dependant_list.gif)
 
-Note that in this use case, the ‘**Production System One**’ encompasses various animal rearing and management practices based on the specific environments and purposes for which animals are kept. These categories reflect the diverse contexts of animal husbandry, ranging from small-scale, informal setups to specialised facilities. It does *not* refer to the production system in the sense of information systems. 
+Note that in this use case, the *Production System One* encompasses various animal rearing and management practices based on the specific environments and purposes for which animals are kept. These categories reflect the diverse contexts of animal husbandry, ranging from small-scale, informal setups to specialised facilities. It does *not* refer to the production system in the sense of information systems. 
 
-The data element **‘Production System Two’** categorises animal production based on the primary purposes and operational characteristics associated with different types of animal husbandry. This system focuses on the specific production goals, such as meat, egg, or wool production, as well as the various market and management practices involved.
+The data element *Production System Two* categorises animal production based on the primary purposes and operational characteristics associated with different types of animal husbandry. This system focuses on the specific production goals, such as meat, egg, or wool production, as well as the various market and management practices involved.
 
-#### Clinical signs and necropsy lesions [section]
+#### Clinical signs and necropsy lesions
 
 Multiple clinical signs and necropsy lesions can be entered here. By default, the program is designed to capture up to five (5) signs/lesions; the possibility to add more will require a set of additional data elements and program rules. 
 
-Each grouping of five data elements (for ‘Clinical signs’ and ‘necropsy lesions’, respectively) share a common option set. 
+Each grouping of five data elements (for *Clinical signs* and *necropsy lesions*, respectively) share a common option set. 
 
 ![Clinical signs and necropsy lesions](resources/epidemiology_clinical_signs_necropsy_lesion.png)
 
@@ -171,27 +161,27 @@ In this program stage section, users can add free text to provide additional com
 
 ### Stage 2: Diagnosis [repeatable]
 
-In this stage the main information the diagnosis type, basis status and disease type are collected. The stage is repeatable as it is recommended by veterinary experts that there can be one main diagnosis, as well as several differential diagnoses. The type of diagnosis (main or differential) is specified in the data element ‘**Diagnosis type**’. 
+In this stage the main information the diagnosis type, basis status and disease type are collected. The stage is repeatable as it is recommended by veterinary experts that there can be one main diagnosis, as well as several differential diagnoses. The type of diagnosis (main or differential) is specified in the data element *Diagnosis type*. 
 
-Through a set of program rules and a hidden data element, once the option ‘**Main diagnosis**’ is selected for the data element ‘**Diagnosis type**’ in an event, the only option available in subsequent selections will be ‘Differential Diagnosis.’ This prevents the possibility of the user accidentally entering more than one main diagnosis for a given health event (DHIS2 enrollment). 
+Through a set of program rules and a hidden data element, once the option *Main diagnosis* is selected for the data element *Diagnosis type* in an event, the only option available in subsequent selections will be *Differential Diagnosis*. This prevents the possibility of the user accidentally entering more than one main diagnosis for a given health event (DHIS2 enrollment). 
 
-![Diagnosis type](resources/diagnosis_main.png)
+![Diagnosis type](resources/diagnosis_main.png) ![When main diagnosis has been already selected, only the differential one is available](resources/diagnosis_differential.png)
 
-In case a laboratory confirmation is available, the user will need to update the **‘Diagnosis Status’** once they receive the result from the laboratory that will either confirm or deny the suspected diagnosis. 
+In case a laboratory confirmation is available, the user will need to update the *Diagnosis Status* once they receive the result from the laboratory that will either confirm or deny the suspected diagnosis. 
 
 ![Diagnosis status](resources/diagnosis_status.png)
 
-The **‘Disease Subtype’** is visible only for a specific set of diseases and the options are populated by Options Groups and a set of Program Rules based on the subtype selected.
+The *Disease Subtype* is visible only for a specific set of diseases and the options are populated by Options Groups and a set of Program Rules based on the subtype selected.
 
 ![Disease subtype](resources/diagnosis_disease.gif)
 
 ### Stage 3: Laboratory data [repeatable]
 
-The program stage event date is conceptualised as the “reporting date”, signifying the date when the laboratory data was entered. This program stage is configured as repeatable to allow for multiple laboratory tests and laboratory results to be added to the record. The inclusion of a **Sample ID** data element allows multiples tests or results to be linked to a given sample. 
+The program stage event date is conceptualised as the “reporting date”, signifying the date when the laboratory data was entered. This program stage is configured as repeatable to allow for multiple laboratory tests and laboratory results to be added to the record. The inclusion of a *Sample ID* data element allows multiples tests or results to be linked to a given sample. 
 
 #### Laboratory information
 
-The data element ‘Laboratory’ contains an option set collated by FAO in its Empres-i system. It contains national reference labs as well as international labs. Countries may need to update this option set to include the appropriate laboratories available in their country for testing. This field allows users, particularly at national level, to know which laboratory is analysing and providing results on the sample. 
+The data element *Laboratory* contains an option set collated by FAO in its Empres-i system. It contains national reference labs as well as international labs. Countries may need to update this option set to include the appropriate laboratories available in their country for testing. This field allows users, particularly at national level, to know which laboratory is analysing and providing results on the sample. 
 
 ![Lab information](resources/laboratory_information.png)
 
@@ -203,7 +193,7 @@ Information on the ID, disease and affected species of the sample. The ID of the
 
 #### Sample and test details
 
-This section collects information on the test and date of sampling and result. This can be reported by the lab itself, or by a surveillance officer or other responsible person at national level. Data elements of type ‘date’ are available to capture the **‘Sampling date’** and **‘Result date’** (when lab results were made available) which will allow further time-based analyses such as time between the reporting of an event and the availability of a lab result. 
+This section collects information on the test and date of sampling and result. This can be reported by the lab itself, or by a surveillance officer or other responsible person at national level. Data elements of type ‘date’ are available to capture the *Sampling date* and *Result date* (when lab results were made available) which will allow further time-based analyses such as time between the reporting of an event and the availability of a lab result. 
 
 ![Sample and test details](resources/0X_AH_sample_test.png)
 
@@ -211,7 +201,7 @@ This section collects information on the test and date of sampling and result. T
 
 The control measures and treatment stage is non-repeatable as all the actions taken are intended to be recorded after the response to the health event (DHIS2 enrollment). This can be adapted according to local context if real-time data entry on various types of control measures are entered in real time. 
 
-Multiple possible sources of **‘Control Measures**’ and **‘Treatments’** can be entered here. Similar to the treatment of ‘Clinical Signs’ data elements, these are represented as five cloned data elements that share the same option set. Additional data elements and program rules can be added if desired. 
+Multiple possible sources of *Control Measures* and *Treatments* can be entered here. Similarly as *Clinical Signs* data elements, these are represented as five cloned data elements that share the same option set. Additional data elements and program rules can be added if desired. 
 
 ![control measures](resources/measures_treatment.png)
 
@@ -219,7 +209,9 @@ Multiple possible sources of **‘Control Measures**’ and **‘Treatments’**
 
 All data elements configured for the Tracker domain are also included in the Data Element Group ‘Animal Surveillance’ [iMNcm8NLZSJ]. This serves as a de facto DHIS2 data dictionary for the Animal Surveillance tracker use case. It allows for the data elements to be exported from DHIS2 and used independently of the Tracker program configuration, for example in the case that an implementation redesigns their Tracker from scratch for local workflows and still wants to use the metadata aligned with the FAO-recommended data variables.
 
-**Note: Data elements configured for this package are aligned to the version of EMPRES-i dated January 24, 2024. The EMPRES-i data dictionary and metadata may evolve over time, requiring updates, maintenance or re-mapping for countries that implement data exchange solutions.** 
+>**Caution:**
+>
+>Data elements configured for this package are aligned to the version of EMPRES-i dated February 28, 2024. The EMPRES-i data dictionary and metadata may evolve over time, requiring updates, maintenance or re-mapping for countries that implement data exchange solutions.
 
 #### Cloned data elements for multiple option selection
 
@@ -234,6 +226,16 @@ Within the program stages for ‘Epidemiology’ and ‘Measures and treatment�
 
 ![Multi-select](resources/multioption_selection.gif)
 
+## User Groups
+
+The following user groups are included in the downloadable metadata file: 
+
+| **User group**        | **Metadata**      | **Data**             |
+| --------------------- | ----------------- | -------------------- |
+| AH_EBS - Admin        | Can edit and view | No Access            |
+| AH_EBS - Access       | Can view only     | Can view only        |
+| AH_EBS - Data Capture | Can view only     | Can capture and view |
+
 # Analytics
 
 An animal surveillance dashboard has been developed based on experience gathered from countries implementations and reports used by international actors such as FAO and WOAH. Dashboards are primarily represented using program indicators, which have been configured to aggregate numbers based on conditions recorded in the tracker program. 
@@ -242,19 +244,13 @@ An animal surveillance dashboard has been developed based on experience gathered
 
 ![dashboard](resources/dashboard.png)
 
-
-
 **Line-listing and animal classification**
 
 ![dashboard1](resources/dashboard_1.png)
 
-
-
 **Diagnoses and confirmed cases**
 
 ![dashboard2](resources/dashboard_2.png)
-
-
 
 **Lab test results, type, control measures and treatments**
 
