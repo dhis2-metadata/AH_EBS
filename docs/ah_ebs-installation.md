@@ -60,7 +60,7 @@ Like indicator types, you may have already existing tracked entity types in your
 
 | Object | UID         | API endpoint                                           |
 |:-------|:------------|:-------------------------------------------------------|
-| Event | DnxQe1mgmlp | `../api/trackedEntityTypes.json?filter=name:eq:Event` |
+| Health Event | DnxQe1mgmlp | `../api/trackedEntityTypes.json?filter=name:eq:Event` |
 
 ### Visualizations using Root Organisation Unit UID
 
