@@ -1,4 +1,4 @@
-# Animal Health Design { #ah-ebs-design }
+# Animal Health - Event Based Surveillance design { #ah-ebs-design }
 
 ## Introduction
 
