@@ -1,4 +1,4 @@
-# Animal Health - Event Base Surveillance
+# Animal Health - Event Based Surveillance
 
 ## Release Note
 
