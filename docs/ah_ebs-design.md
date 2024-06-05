@@ -222,16 +222,6 @@ Within the program stages for ‘Epidemiology’ and ‘Measures and treatment�
 
 ![Multi-select](resources/images/multioption_selection.gif)
 
-## User Groups
-
-The following user groups are included in the downloadable metadata file:
-
-| **User group**        | **Metadata**      | **Data**             |
-| --------------------- | ----------------- | -------------------- |
-| AH_EBS - Admin        | Can edit and view | No Access            |
-| AH_EBS - Access       | Can view only     | Can view only        |
-| AH_EBS - Data Capture | Can view only     | Can capture and view |
-
 ## Analytics
 
 An animal surveillance dashboard has been developed based on experience gathered from countries implementations and reports used by international actors such as FAO and WOAH. Dashboards are primarily represented using program indicators, which have been configured to aggregate numbers based on conditions recorded in the tracker program.
@@ -251,3 +241,13 @@ An animal surveillance dashboard has been developed based on experience gathered
 ### Lab test results, type, control measures and treatments
 
 ![dashboard3](resources/images/dashboard_3.png)
+
+## User Groups
+
+The following user groups are included in the downloadable metadata file:
+
+| **User group**        | **Metadata**      | **Data**             |
+| --------------------- | ----------------- | -------------------- |
+| AH_EBS - Admin        | Can edit and view | No Access            |
+| AH_EBS - Access       | Can view only     | Can view only        |
+| AH_EBS - Data Capture | Can view only     | Can capture and view |
