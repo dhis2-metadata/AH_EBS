@@ -224,7 +224,7 @@ Within the program stages for ‘Epidemiology’ and ‘Measures and treatment�
 
 ## Analytics
 
-An animal surveillance dashboard has been developed based on experience gathered from countries implementations and reports used by international actors such as FAO and WOAH. Dashboards are primarily represented using program indicators, which have been configured to aggregate numbers based on conditions recorded in the tracker program.
+An animal surveillance [dashboard](https://demos.dhis2.org/hmis/dhis-web-dashboard/#/FHh9NTsTjQY) has been developed based on experience gathered from countries implementations and reports used by international actors such as FAO and WOAH. Dashboards are primarily represented using program indicators, which have been configured to aggregate numbers based on conditions recorded in the tracker program.
 
 ### Summary of events, cases, deaths reported by time and geographical distribution
 
