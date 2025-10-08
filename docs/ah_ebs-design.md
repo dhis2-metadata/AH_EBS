@@ -4,7 +4,7 @@
 
 An estimated 60% of emerging infectious diseases originate in animals, both domestic and wildlife ([WHO, 2023](https://www.who.int/news-room/fact-sheets/detail/one-health)). The high risk of zoonotic spillover into human populations demands close collaboration, communication and coordination between animal and public health sectors. While substantial investments and resources have helped public health agencies and MOH in countries to strengthen surveillance systems for humans, the resources available for improving animal health surveillance remain far more limited.
 
-The **DHIS2 Animal Health toolkit** is designed for implementation by Ministries of Agriculture & Livestock to improve routine, systematic surveillance in animal populations, thanks to catalytic support from CDC’s Center for Global Health. A DHIS2 tracker program for animal health event based surveillance is described in this document. The animal health tracker program is based on the design of [FAO’s EMPRES-i system]([https://EMPRES-i.apps.fao.org/](https://empres-i.apps.fao.org/)) for global reporting and early warning. Metadata published as a part of this toolkit is aligned with the FAO recommended metadata for early warning systems to facilitate ease of interoperability between DHIS2, EMPRES-i and other systems. The DHIS2 system for animal health can operate as an independent surveillance platform for Ministries of Livestock and actors working in veterinary and animal health; or it can be integrated into a DHIS2 platform alongside public health surveillance data to enhance data sharing for zoonotic diseases.
+The **DHIS2 Animal Health toolkit** is designed for implementation by Ministries of Agriculture and Livestock to improve routine, systematic surveillance in animal populations, thanks to catalytic support from CDC’s Center for Global Health. A DHIS2 tracker program for animal health event-based surveillance is described in this document, based on configurations and lessons learned from countries that have already adopted DHIS2 for animal health surveillance. The DHIS2 system for animal health can operate as an independent surveillance platform for Ministries of Livestock and actors working in veterinary and animal health, or it can be integrated into a DHIS2 platform alongside public health surveillance data to enhance data sharing for zoonotic diseases.
 
 Recognizing that the health of humans, animals, plants, and the wider environment are closely linked and interdependent, the One Health approach emphasizes cross-sectoral collaboration at all levels to protect our ecosystems and address health challenges like the emergence of infectious diseases, antimicrobial resistance, and food safety ([WHO](https://www.who.int/health-topics/one-health#tab=tab_1)). The animal health toolkit builds upon lessons learned from more than a decade of implementing public health surveillance systems in DHIS2 with 40+ Ministries of Health and aims to further advance collaborative, cross-sector approaches to improve health for all. These efforts are in line with the WHO’s [collaborative surveillance framework](https://www.who.int/publications/i/item/9789240074064) to strengthen the global architecture for health emergency preparedness, response, and resilience (HEPR).
 
@@ -14,7 +14,7 @@ Recognizing that the health of humans, animals, plants, and the wider environmen
 
 ### Acknowledgements
 
-The DHIS2 animal health toolkit was supported by CDC funding through the OneHealth initiative. HISP Centre is grateful to CDC, Food & Agricultural Organisation (FAO), World Organisation for Animal Health (WOAH) and the World Health Organization (WHO) for contributing their technical expertise and guidance in the development of the toolkit.
+The development of the DHIS2 Animal Health Toolkit was made possible through funding from the CDC under the One Health initiative. The HISP Centre gratefully acknowledges the CDC’s support and collaboration in this effort.
 
 ## System Design
 
@@ -22,41 +22,43 @@ The DHIS2 animal health toolkit was supported by CDC funding through the OneHeal
 
 The DHIS2 Animal Health Toolkit is designed to:
 
-- Enable the use of DHIS2 at country, subnational and community levels to serve as an electronic platform for routine surveillance of animal health and possible health events related to animal populations
-- Facilitate reporting of possible animal diseases and animal health events and allow authorities to review and verify events reported from the community and other sources
-- Link laboratory results and response measures to reported animal health events where relevant and available
-- Provide access to veterinarians and epidemiologists to information about animal health events to analyze, assess and initiate response measures or notifications to global agencies as needed
-- Facilitate the sharing of information of information on animal health with the public health sector (and vice versa) to improve cooperation for detecting zoonotic disease threats
+- Enable the use of DHIS2 at country, subnational, and community levels as an electronic platform for routine surveillance of animal health and health events related to animal populations.
+- Facilitate reporting of suspected animal diseases and health events, and allow authorities to review and verify reports from the community and other sources.
+- Link laboratory results and response measures to reported animal health events, where relevant and available.
+- Provide veterinarians and epidemiologists with access to information on animal health events to support analysis, assessment, and initiation of response measures or notifications to relevant authorities.
+- Support information sharing across veterinary and livestock systems to strengthen coordination and response to animal health threats.
 
-Based on landscaping of existing country systems for One Health and animal health, there are multiple scenarios for implementing DHIS2 to support animal health surveillance functions. The animal health toolkit is designed to be flexible and adaptable based on existing country systems and architecture.
-
-![Illustrative architecture for One Health systems](resources/images/integrated_surveillance_system.png)
+The Animal Health Toolkit is designed to be flexible and adaptable to different country contexts and existing surveillance architectures, allowing implementation in a variety of settings to strengthen national animal health surveillance systems.
 
 ### Use Case
 
 #### Early warning systems for animal health
 
-This design document focuses specifically on using DHIS2 to report and collate information related to animal health threats. These data can then be shared upstream to other systems, such as national One Health platforms, FAO’s EMPRES-i system for early warning, or sending key data to DHIS2 surveillance systems managed by the Ministry of Health to alert public health staff to possible zoonotic disease threats.
+This design document focuses specifically on using DHIS2 to report and collate information related to animal health threats. These data can then be shared upstream to national surveillance systems or integrated with other DHIS2 platforms to strengthen coordination and alert relevant authorities to potential zoonotic disease threats.
 
 ![Animal health early warning](resources/images/0_animal_public_health_structure.png)
 
-The DHIS2 tracker program presented here is designed to support early warning and borrows principles from event-based surveillance approaches. Event-based surveillance aims to detect unusual events, illnesses, deaths or other occurrences that might signal a possible outbreak [CDC](https://www.cdc.gov/globalhealth/healthprotection/gddopscenter/event-based-surveillance.html).
+#### Event-Based Surveillance for Animl Health
 
-Event-based surveillance can incorporate many types of sources, including publicly available and unstructured data. In this use case, we focus primarily on the use of DHIS2 for:
+The DHIS2 tracker program presented here is designed to support **event-based surveillance** of animal health by enabling the timely detection, reporting and investigation of unusual animal health events. The goal is to strengthen national veterinary surveillance systems through systematic collection and analysis of event information, supporting early warning, verification, and response to potential disease outbreaks.
 
-- **Community-based reporting** of information about a possible public health event is reported by people in the community through a hotline or other messaging system, such as by farmers, community health workers, community members, para-veterinarians, etc.
-- **Health facilities**: reporting unusual or unexpected events with patients presenting at facilities, or clusters of unusual conditions.
-- **Veterinarians, agriculture and livestock workers** who have frequent contact with domestic and sometimes wildlife
+Information can be reported from multiple sources, including:
 
-These “events” can include signals, such as those reported from the community, which are verified by qualified surveillance personnel. For example, a farmer may report an unusual occurrence of a cluster of dead animals, which prompts local health authorities to verify and investigate whether there is a possible health threat. Reporting from veterinarians, community members, agriculture and livestock workers is especially important for detecting possible events that can result in the spread of zoonotic diseases.
+- **Community-based reporting**: Farmers, livestock keepers, community animal health workers, and para-veterinarians can report unusual illnesses, clusters of deaths, or abnormal animal behavior through mobile applications, hotlines, or messaging platforms.
+- **Animal health services and facilities**: Veterinary clinics, district veterinary offices, and laboratories can report events identified through their routine activities or diagnostic work.
+- **Veterinarians, agriculture, and livestock workers**: Professionals and frontline staff in frequent contact with animals—and, in some contexts, wildlife—can submit event reports when observing unusual or suspected health threats.
 
-#### Personas (System Users)
+Reports from these sources serve as signals that are subsequently reviewed and verified by surveillance personnel. For instance, a report of multiple sudden animal deaths from a community may trigger field investigation and laboratory confirmation to assess the presence and extent of a potential outbreak.
+
+By providing a structured and adaptable framework for the detection and management of animal health events, the DHIS2 Animal Health Tracker enhances early warning capacity and supports timely decision-making within veterinary services.
+
+### Personas (System Users)
 
 The Animal Health surveillance system design focuses on meeting the needs of end users at all levels of the animal health system, including those responsible for implementing and managing integrated platforms as One Health. These users may include:
 
 - **Animal health surveillance officers (national & sub-national)**: data users who are responsible for data collection, routine analysis of data, using data to improve operations and programme strategies, and providing data-driven feedback to programme staff
 - **Animal health surveillance data managers:** users who are responsible for overseeing data collection, management, data quality, analysis and reporting functions for the national animal health surveillance department
-- **System admins:** Core DHIS2 team responsible for maintaining and improving data systems for animal health programmes, integrating data streams collected with separate tools as EMPRES-i into national platforms, providing technical support for system design, adaptation and end user support; and maintaining the DHIS2 system over time.
+- **System admins:** Core DHIS2 team responsible for maintaining and improving data systems for animal health programmes, integrating data streams collected with separate tools into national platforms, providing technical support for system design, adaptation and end user support; and maintaining the DHIS2 system over time.
 - **Cross-sector platform users:** users from different domain such as human health and environment may need access to the animal health surveillance data for cross-sector analysis under the One Health approach
 - **Implementing partners:** organisations who provide technical assistance to the national animal health surveillance platform, collect and analyse data on behalf of the overall national strategy, and may be responsible for the operations of service delivery networks.
 
@@ -64,7 +66,7 @@ The Animal Health surveillance system design focuses on meeting the needs of end
 
 The DHIS2 Animal Health Surveillance system has two main components:
 
-- **Tracker program:** a DHIS2 tracker program has been configured for event-level data collection based on early warning data variables captured by FAO’s [EMPRES-i]([https://EMPRES-i.apps.fao.org](https://empres-i.apps.fao.org)) system.
+- **Tracker program:** a DHIS2 tracker program has been configured for event-level data collection.
 - **Dashboard:** a standard dashboard with maps and charts to visualize the distribution and frequency of various types of animal health events reported, as well as types of animals affected, confirmed diseases and other data.
 
 The DHIS2 tracker program provides a basic structure for capturing key data according to global recommendations. It can support direct reporting of animal health surveillance in DHIS2, such as by community health workers and veterinarians using mobile applications. Alternatively, the tracker program structure can be used to simply collate data collected in other systems to improve accessibility and analysis. The standard tracker program may be adapted for local workflows depending on the level of data entry, types of users and levels of verification or approval of the data.
@@ -77,7 +79,7 @@ Additional DHIS2 functionalities can further enhance the use of the system. Thes
 
 #### Interoperability and Data Exchange
 
-As a robust platform for interoperability with a well-documented REST-based API, the DHIS2 system facilitates upward reporting from DHIS2 to global databases such as EMPRES-i or WOAH’s WAHIS system; alternatively, DHIS2 can be used simply to receive and store animal health surveillance data as a repository from other existing data collection tools. This capability allows DHIS2 to bring data together from animal and public health sectors (and beyond!) to enhance prevention and early detection of zoonotic spillovers and diseases.
+As a robust platform for interoperability with a well-documented REST-based API, the DHIS2 system facilitates upward reporting from DHIS2 to global databases; alternatively, DHIS2 can be used simply to receive and store animal health surveillance data as a repository from other existing data collection tools. This capability allows DHIS2 to bring data together from animal and public health sectors (and beyond!) to enhance prevention and early detection of zoonotic spillovers and diseases.
 
 ## Tracker
 
@@ -177,7 +179,7 @@ The program stage event date is conceptualised as the “reporting date”, sign
 
 #### Laboratory information
 
-The data element *Laboratory* contains an option set collated by FAO in its Empres-i system. It contains national reference labs as well as international labs. Countries may need to update this option set to include the appropriate laboratories available in their country for testing. This field allows users, particularly at national level, to know which laboratory is analysing and providing results on the sample.
+The data element *Laboratory* contains national reference labs as well as international labs. Countries may need to update this option set to include the appropriate laboratories available in their country for testing. This field allows users, particularly at national level, to know which laboratory is analysing and providing results on the sample.
 
 ![Lab information](resources/images/laboratory_information.png)
 
@@ -203,11 +205,7 @@ Multiple possible sources of *Control Measures* and *Treatments* can be entered 
 
 ### Data Elements
 
-All data elements configured for the Tracker domain are also included in the Data Element Group ‘Animal Surveillance’ [iMNcm8NLZSJ]. This serves as a de facto DHIS2 data dictionary for the Animal Surveillance tracker use case. It allows for the data elements to be exported from DHIS2 and used independently of the Tracker program configuration, for example in the case that an implementation redesigns their Tracker from scratch for local workflows and still wants to use the metadata aligned with the FAO-recommended data variables.
-
->**Caution:**
->
->Data elements configured for this package are aligned to the version of EMPRES-i dated February 28, 2024. The EMPRES-i data dictionary and metadata may evolve over time, requiring updates, maintenance or re-mapping for countries that implement data exchange solutions.
+All data elements configured for the Tracker domain are also included in the Data Element Group ‘Animal Surveillance’ [iMNcm8NLZSJ]. This serves as a de facto DHIS2 data dictionary for the Animal Surveillance tracker use case. It allows for the data elements to be exported from DHIS2 and used independently of the Tracker program configuration, for example in the case that an implementation redesigns their Tracker from scratch for local workflows and still wants to use the metadata.
 
 #### Cloned data elements for multiple option selection
 
@@ -224,7 +222,7 @@ Within the program stages for ‘Epidemiology’ and ‘Measures and treatment�
 
 ## Analytics
 
-An animal surveillance [dashboard](https://demos.dhis2.org/hmis/dhis-web-dashboard/#/FHh9NTsTjQY) has been developed based on experience gathered from countries implementations and reports used by international actors such as FAO and WOAH. Dashboards are primarily represented using program indicators, which have been configured to aggregate numbers based on conditions recorded in the tracker program.
+An animal surveillance [dashboard](https://demos.dhis2.org/hmis/dhis-web-dashboard/#/FHh9NTsTjQY) has been developed based on experience gathered from countries implementations. Dashboards are primarily represented using program indicators, which have been configured to aggregate numbers based on conditions recorded in the tracker program.
 
 ### Summary of events, cases, deaths reported by time and geographical distribution
 
@@ -415,3 +413,4 @@ A system administrator should be designated to maintain the solution over time. 
 - Continue to monitor that scheduled jobs run as expected, in sequence
 - Configure new notifications, messages, conditions and user groups based on new requirements (such as priority disease conditions and thresholds) and changes in notification protocols
 - During DHIS2 upgrades: test functionality for your configuration 
+
